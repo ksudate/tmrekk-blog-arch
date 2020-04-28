@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "tmrekk.dev"
+theme = "tale"
+
+ygmentsCodefences  = true
+pygmentsUseClasses = true
+
+[Author]
+    name = "tmrekk"
+
+[menu]
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    title = "Portfolio"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
