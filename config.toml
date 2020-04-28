@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://suspicious-golick-e8a712.netlify.app"
 languageCode = "ja"
 title = "tmrekk.dev"
 theme = "tale"
