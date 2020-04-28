@@ -22,3 +22,6 @@ pygmentsUseClasses = true
     title = "Posts"
     url = "/posts/"
     weight = 0
+
+[Params]
+    css = ["custom.css"]
