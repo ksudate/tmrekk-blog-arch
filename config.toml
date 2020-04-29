@@ -14,7 +14,7 @@ pygmentsUseClasses = true
     identifier = "portfolio"
     name = "Portfolio"
     title = "Portfolio"
-    url = "/about/"
+    url = "https://www.tmrekk.dev"
     weight = 0
   [[menu.main]]
     identifier = "posts"
