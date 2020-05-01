@@ -1,11 +1,11 @@
 ---
-title: "My First Post"
-date: 2020-04-28T12:03:04+09:00
+title: "Test2"
+date: 2020-05-01T20:06:20+09:00
 draft: true
 ---
 
-# Hugo Test
-###### Hugo Test
+# Hugo Test2
+###### Hugo Test2
 
 ```C {linenos=table}
 int main(void) {
