@@ -19,6 +19,7 @@
   {{ range .Site.Params.css -}}
     <link rel="stylesheet" href="{{ . | relURL }}">
   {{ end -}}
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}syntax.css" />
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png" | relURL }}">
