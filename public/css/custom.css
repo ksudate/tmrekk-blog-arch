@@ -1,0 +1,7 @@
+.social-icon {
+  padding: 0 5px;
+  text-align: center;
+}
+.social-icon li{
+  display: inline-block;
+}
